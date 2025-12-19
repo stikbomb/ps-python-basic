@@ -1,4 +1,4 @@
 if __name__ == "__main__":
-    user_name = input("Enter your name: ")
-    user_age = input("Enter your age: ")
-    print(f"Hello, {user_name}! You are {user_age} years old.")
+    user_name = input("Введите ваше имя: ")
+    user_age = input("Введите ваш возраст: ")
+    print(f"Привет, {user_name}! Тебе {user_age} лет.")
